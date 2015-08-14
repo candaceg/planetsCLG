@@ -1,10 +1,12 @@
 mars is awesome
 but venus is better
 adding a script to this file.
-head -5 *txt
+shell.sh
 
-> git status
-> git add
+After you've done needed changes, you need to add those changes and commit them to git.  You also want to add a comment about what changes you made to the file.
+> git status 
+> git add filename
 > git commit -m "venus edits"
 OR
 > git commit #which will open text editor
+> git status
