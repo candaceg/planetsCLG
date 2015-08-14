@@ -1,1 +1,10 @@
 mars is awesome
+but venus is better
+adding a script to this file.
+head -5 *txt
+
+> git status
+> git add
+> git commit -m "venus edits"
+OR
+> git commit #which will open text editor
